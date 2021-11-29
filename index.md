@@ -1,27 +1,58 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html>
 
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<head>
+    <meta charset='utf-8'>
+    <title>HTML Participation</title>
+    <link rel="stylesheet" href="StyleSheet1.css">
 
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
+</head>
 
-    <!-- Optional JavaScript; choose one of the two! -->
 
-    <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<body>
 
-    <!-- Option 2: Separate Popper and Bootstrap JS -->
-    <!--
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
-    -->
-  </body>
+    <H1>MIS 3033 HTML Participation</H1>
+
+    <!-- List 3 Websites you like e.g. Google, Bing, DuckDuckGo -->
+    <div>
+        <nav>
+            <ul>
+                <li><a target="_blank" href="https://www.google.com">Bing</a></li>
+                <li><a target="_blank" href="https://www.bing.com">Google</a></li>
+                <li><a target="_blank" href="https://www.duckduckgo.com">DuckDuckGo</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="Main">
+
+
+
+
+        <image style="height:100px" src="https://poodles2doodles.com/wp-content/uploads/2019/05/Una7of7.jpg
+" />
+
+        <!-- List personal information here (Name, Major, Classification) -->
+        <div id="Information">
+            <h3>About Me</h3>
+            <h4>Instructor Ackerman</h4>
+            <h4>MIS</h4>
+            <h4>Super Senior</h4>
+        </div>
+
+        <!-- Add a purpose heading -->
+        <div>
+            <h3>Purpose</h3>
+
+            <p>This is Instructor Ackerman's participation over HTML in MIS 3033.</p>
+        </div>
+
+        <!-- Add a secret no one knows about you -->
+        <div>
+            <h3>Secret ... Shhh</h3>
+            <h6>Something people do not know about me ...</h6>
+            <p>I <span style="color:red">&hearts;</span> to program!</p>
+        </div>
+    </div>
+</body>
+
 </html>
