@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
     <meta charset='utf-8'>
-    <title>HTML Participation</title>
+    <title>Nick O'Donnell Website</title>
     <link rel="stylesheet" href="StyleSheet1.css">
 
 </head>
@@ -11,9 +11,9 @@
 
 <body>
 
-    <H1>MIS 3033 HTML Participation</H1>
-
-    <!-- List 3 Websites you like e.g. Google, Bing, DuckDuckGo -->
+    <H1>Welcome to my website!</H1>
+    <H2>Below are links to information about me:</H1>
+    
     <div>
         <nav>
             <ul>
@@ -32,26 +32,17 @@
 " />
 
         <!-- List personal information here (Name, Major, Classification) -->
-        <div id="Information">
-            <h3>About Me</h3>
-            <h4>Instructor Ackerman</h4>
-            <h4>MIS</h4>
-            <h4>Super Senior</h4>
-        </div>
+        
 
         <!-- Add a purpose heading -->
         <div>
-            <h3>Purpose</h3>
+            <h3>Purpose of Page:</h3>
 
-            <p>This is Instructor Ackerman's participation over HTML in MIS 3033.</p>
+            <p>This website is dedicated to information regarding Nick's skills, projetcs, and about him!</p>
         </div>
 
         <!-- Add a secret no one knows about you -->
-        <div>
-            <h3>Secret ... Shhh</h3>
-            <h6>Something people do not know about me ...</h6>
-            <p>I <span style="color:red">&hearts;</span> to program!</p>
-        </div>
+        
     </div>
 </body>
 
