@@ -17,9 +17,9 @@
     <div>
         <nav>
             <ul>
-                <li><a href="file:///C:/Users/jodon/OneDrive/Documents/HWK%208%20-%20Personal%20Website/About.html" target="_blank">About</a></li>
+                <li><a target="_blank" href="https://nickodonnell.github.io/Homework-8---Personal-Website/About.html">About</a></li>
                 <li><a target="_blank" href="https://www.bing.com">Projects</a></li>
-                <li><a target="_blank" href="https://www.duckduckgo.com">Skills</a></li>
+                <li><a target="_blank" href="https://nickodonnell.github.io/Homework-8---Personal-Website/Skills.html>Skills</a></li>
             </ul>
         </nav>
     </div>
