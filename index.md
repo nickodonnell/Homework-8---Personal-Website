@@ -17,7 +17,7 @@
     <div>
         <nav>
             <ul>
-                <li><a target="_blank" href="file:///C:/Users/jodon/OneDrive/Documents/HWK%208%20-%20Personal%20Website/About.html</a></li>
+                <li><a target="_blank" href="file:///C:/Users/jodon/OneDrive/Documents/HWK%208%20-%20Personal%20Website/About.htm"l>About</a></li>
                 <li><a target="_blank" href="https://www.bing.com">Projects</a></li>
                 <li><a target="_blank" href="https://www.duckduckgo.com">Skills</a></li>
             </ul>
