@@ -12,14 +12,14 @@
 <body>
 
     <H1>Welcome to my website!</H1>
-    <H2>Below are links to information about me:</H1>
+    <H2>Below are links to information about me:
     
     <div>
         <nav>
             <ul>
-                <li><a target="_blank" href="https://www.google.com">Bing</a></li>
-                <li><a target="_blank" href="https://www.bing.com">Google</a></li>
-                <li><a target="_blank" href="https://www.duckduckgo.com">DuckDuckGo</a></li>
+                <li><a target="_blank" href="file:///C:/Users/jodon/OneDrive/Documents/HWK%208%20-%20Personal%20Website/About.html">About</a></li>
+                <li><a target="_blank" href="https://www.bing.com">Projects</a></li>
+                <li><a target="_blank" href="https://www.duckduckgo.com">Skills</a></li>
             </ul>
         </nav>
     </div>
@@ -28,9 +28,7 @@
 
 
 
-        <image style="height:100px" src="https://poodles2doodles.com/wp-content/uploads/2019/05/Una7of7.jpg
-" />
-
+        
         <!-- List personal information here (Name, Major, Classification) -->
         
 
@@ -40,8 +38,9 @@
 
             <p>This website is dedicated to information regarding Nick's skills, projetcs, and about him!</p>
         </div>
+         <image style="height:100px" src="https://media-exp1.licdn.com/dms/image/C4E03AQHc-mCnmTXAiw/profile-displayphoto-shrink_400_400/0/1571154719439?e=1643846400&v=beta&t=9jqK0n_5bzDdgLcWDo6JbQU2KgI7FVF4n8MIHk4yPN0
+" />
 
-        <!-- Add a secret no one knows about you -->
         
     </div>
 </body>
